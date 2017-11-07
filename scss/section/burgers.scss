@@ -1,0 +1,54 @@
+.burgers {
+    background-image: url('../img/bg/burgers-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+}
+
+
+.burgers__container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.burgers__content {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    align-items: center;
+    padding-bottom: 15%;
+
+}
+
+.burgers__img, .burgers__description {
+    
+        flex-basis: 50%;
+        display: flex;
+    }
+
+.burgers__description {
+        
+            flex-direction: column;
+            justify-content: center;
+        }
+
+.section__title--burgers {
+            color: #fff;
+            padding: 0;
+            margin-bottom: rem(60px);
+            line-height: 0.89;
+        }
+        
+.burgers__description-text {
+            color: #fff;
+            font-family: 'Ubuntu';
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 1.42;
+            text-align: left;
+        }
