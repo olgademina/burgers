@@ -1,0 +1,22 @@
+//config
+@import "config/normalize";
+@import "config/variables";
+@import "config/mixins";
+
+//base
+@import "layout/fonts";
+@import "layout/base";
+@import "layout/adjustment";
+@import "layout/fixed-menu";
+
+//section
+
+@import "section/hero";
+@import "section/best";
+@import "section/burgers";
+@import "section/team";
+@import "section/menu";
+@import "section/reviews";
+@import "section/order";
+@import "section/map";
+@import "section/footer";
