@@ -7,4 +7,4 @@ Burgers project
 
 **Курс**: Веб для начинающих *(10.2017)*
 
-**Сайт**: https://olgademina.github.io/burgers/week_1
+**Сайт**: https://olgademina.github.io/burgers/
